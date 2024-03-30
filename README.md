@@ -39,6 +39,7 @@ GIF created with ...
 
 [ScreenToGif](https://www.screentogif.com/) for Windows
 
+P.S. This is the old gif, my per day limit exceeded so I could not change the gif.
 
 ## Notes
 
